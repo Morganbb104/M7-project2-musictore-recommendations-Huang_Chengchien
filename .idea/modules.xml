@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/M7-project2-musictore-recommendations-Huang_Chengchien.iml" filepath="$PROJECT_DIR$/.idea/M7-project2-musictore-recommendations-Huang_Chengchien.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/musicstore-recommendations.iml" filepath="$PROJECT_DIR$/app/musicstore-recommendations.iml" />
-    </modules>
-  </component>
-</project>
